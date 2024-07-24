@@ -44,3 +44,6 @@ First, Insert your hash in to hash input then click on `Detect` Button for Detec
 ## ☠️ Reporting Issues
 
 If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120ni@Gmail.com**
+
+## License
+* [CGBL](https://Ch4120N.github.io/CGBL)
